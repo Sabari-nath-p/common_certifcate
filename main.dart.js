@@ -50240,10 +50240,10 @@ rb(){var s=0,r=B.O(t.z),q=this,p,o,n,m,l,k,j,i,h
 var $async$rb=B.K(function(a,b){if(a===1)return B.L(b,r)
 while(true)switch(s){case 0:j=$.pb()
 s=2
-return B.I(j.jQ(0,"/Poppins-Medium.ttf"),$async$rb)
+return B.I(j.jQ(0,"assets/Poppins-Medium.ttf"),$async$rb)
 case 2:i=b
 s=3
-return B.I(j.jQ(0,"/StyleScript-Regular.ttf"),$async$rb)
+return B.I(j.jQ(0,"assets/StyleScript-Regular.ttf"),$async$rb)
 case 3:h=b
 j=B.a([],t.gf)
 p=B.aRL(!0,null,A.aIX,!1,A.Es)
